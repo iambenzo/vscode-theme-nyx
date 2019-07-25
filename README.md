@@ -10,6 +10,6 @@ Icon is by Jaimy Hancroft ([source](https://www.flickr.com/photos/46058484@N06/5
 
 Extract the [Release](https://github.com/iambenzo/vscode-theme-nyx/releases) into the following directory:
 
-* Windows %USERPROFILE%\.vscode\extensions
-* macOS ~/.vscode/extensions
-* Linux ~/.vscode/extensions
+* Windows `%USERPROFILE%\.vscode\extensions`
+* macOS `~/.vscode/extensions`
+* Linux `~/.vscode/extensions`

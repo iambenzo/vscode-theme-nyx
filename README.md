@@ -6,7 +6,7 @@ Syntax colours come from [Pathtrk's Ariake](https://github.com/pathtrk/ariake-da
 
 # Installation
 
-Copy the `vsix` file to the following directory
+Extract the [Release](/releases) into the following directory:
 
 * Windows %USERPROFILE%\.vscode\extensions
 * macOS ~/.vscode/extensions

@@ -1,0 +1,21 @@
+{
+    "name": "nyx-theme",
+    "displayName": "Nyx Theme",
+    "description": "A dark theme inspired by the goddess of the night",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nyx Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nyx-theme-color-theme.json"
+            }
+        ]
+    }
+}

@@ -3,6 +3,16 @@
     "displayName": "Nyx Theme",
     "description": "A dark theme inspired by the goddess of the night",
     "version": "0.0.1",
+    "publisher": "iambenzo",
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#22252e",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iambenzo/vscode-theme-nyx.git"
+    },
     "engines": {
         "vscode": "^1.36.0"
     },

@@ -6,7 +6,7 @@ Syntax colours come from [Pathtrk's Ariake](https://github.com/pathtrk/ariake-da
 
 # Installation
 
-Extract the [Release](/releases) into the following directory:
+Extract the [Release](https://github.com/iambenzo/vscode-theme-nyx/releases) into the following directory:
 
 * Windows %USERPROFILE%\.vscode\extensions
 * macOS ~/.vscode/extensions

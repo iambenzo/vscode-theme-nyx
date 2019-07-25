@@ -15,31 +15,6 @@
                 "label": "Nyx",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nyx-theme-color-theme.json"
-            },
-            {
-                "label": "Nyx - Halcyon Syntax",
-                "uiTheme": "vs-dark",
-                "path": "./themes/nyx-theme-color-theme-halcyon.json"
-            },
-            {
-                "label": "Nyx - Night Owl Syntax",
-                "uiTheme": "vs-dark",
-                "path": "./themes/nyx-theme-color-theme-night-owl.json"
-            },
-            {
-                "label": "Nyx - Eva Syntax",
-                "uiTheme": "vs-dark",
-                "path": "./themes/nyx-theme-color-theme-eva.json"
-            },
-            {
-                "label": "Nyx - One Syntax",
-                "uiTheme": "vs-dark",
-                "path": "./themes/nyx-theme-color-theme-one.json"
-            },
-            {
-                "label": "Nyx - Ariake Syntax",
-                "uiTheme": "vs-dark",
-                "path": "./themes/nyx-theme-color-theme-ariake.json"
             }
         ]
     }

@@ -1,6 +1,6 @@
 # Nyx
 
-![Nyx Icon](assets/icon.png)
+![Nyx screenshot](./assets/screenshot.png)
 
 A dark theme inspired by the goddess of the night.
 
@@ -11,11 +11,6 @@ Extract the [Release](https://github.com/iambenzo/vscode-theme-nyx/releases) int
 * Windows `%USERPROFILE%\.vscode\extensions`
 * macOS `~/.vscode/extensions`
 * Linux `~/.vscode/extensions`
-
-## TODO
-
-* Display some screenshots in README.
-* Publish
 
 ## Credits
 

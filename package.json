@@ -2,9 +2,9 @@
     "name": "nyx-theme",
     "displayName": "Nyx Theme",
     "description": "A dark theme inspired by the goddess of the night",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "iambenzo",
-    "icon": "icon.png",
+    "icon": "assets/icon.png",
     "galleryBanner": {
         "color": "#22252e",
         "theme": "dark"

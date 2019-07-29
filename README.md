@@ -1,6 +1,6 @@
 # Nyx
 
-![Nyx screenshot](./assets/screenshot.png)
+![Nyx screenshot](screenshot.png)
 
 A dark theme inspired by the goddess of the night.
 

@@ -4,7 +4,7 @@
     "description": "A dark theme inspired by the goddess of the night",
     "version": "0.0.3",
     "publisher": "iambenzo",
-    "icon": "assets/icon.png",
+    "icon": "icon.png",
     "galleryBanner": {
         "color": "#22252e",
         "theme": "dark"

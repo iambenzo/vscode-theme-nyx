@@ -279,7 +279,8 @@
 		//"textLink.activeForeground": "#3794ff",
 		//"textLink.foreground": "#3794ff",
 		//"textPreformat.foreground": "#d7ba7d",
-		//"textSeparator.foreground": "#ffffff2e"
+		//"textSeparator.foreground": "#ffffff2e".
+		"gitlens.trailingLineForegroundColor": "#6e7a92"
 	},
 	"tokenColors": [
 		{

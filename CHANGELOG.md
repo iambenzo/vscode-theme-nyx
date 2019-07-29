@@ -1,8 +1,8 @@
 # Change Log
 
-All notable changes to the "nyx-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.5] - 2019-07-29
+### Changed
+- Updated colour of git lens comments
 
 ## [0.0.4] - 2019-07-29
 ### Changed
@@ -22,6 +22,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial colour scheme.
 - Syntax colours.
 
+[0.0.5]: https://github.com/iambenzo/vscode-theme-nyx/compare/0.0.4...0.0.5
 [0.0.4]: https://github.com/iambenzo/vscode-theme-nyx/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/iambenzo/vscode-theme-nyx/compare/0.0.2...0.0.3
 [0.0.2]: https://github.com/iambenzo/vscode-theme-nyx/compare/0.0.1...0.0.2

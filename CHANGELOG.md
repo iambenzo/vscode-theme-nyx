@@ -26,7 +26,7 @@
 - Initial colour scheme.
 - Syntax colours.
 
-[0.0.5]: https://github.com/iambenzo/vscode-theme-nyx/compare/0.0.5...0.0.6
+[0.0.6]: https://github.com/iambenzo/vscode-theme-nyx/compare/0.0.5...0.0.6
 [0.0.5]: https://github.com/iambenzo/vscode-theme-nyx/compare/0.0.4...0.0.5
 [0.0.4]: https://github.com/iambenzo/vscode-theme-nyx/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/iambenzo/vscode-theme-nyx/compare/0.0.2...0.0.3

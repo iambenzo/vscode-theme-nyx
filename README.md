@@ -15,9 +15,10 @@ Use the install button [on this page](https://marketplace.visualstudio.com/items
 **OR**
 
 Install/Extract the [Release](https://github.com/iambenzo/vscode-theme-nyx/releases) into the following directory:
-    * Windows `%USERPROFILE%\.vscode\extensions`
-    * macOS `~/.vscode/extensions`
-    * Linux `~/.vscode/extensions`
+
+* Windows `%USERPROFILE%\.vscode\extensions`
+* macOS `~/.vscode/extensions`
+* Linux `~/.vscode/extensions`
 
 ## Credits
 

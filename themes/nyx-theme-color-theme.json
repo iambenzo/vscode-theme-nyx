@@ -116,7 +116,7 @@
 		//"editor.hoverHighlightBackground": "#264f7840",
 		//"editor.inactiveSelectionBackground": "#3a3d6180",
 		//"editor.rangeHighlightBackground": "#ffffff0b",
-		//"editor.selectionHighlightBackground": "#2d2f4b99",
+		"editor.selectionHighlightBackground": "#3a3d6499",
 		//"editor.snippetFinalTabstopHighlightBorder": "#525252",
 		//"editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
 		//"editor.stackFrameHighlightBackground": "#ffff0033",

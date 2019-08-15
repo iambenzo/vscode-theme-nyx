@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.0.6] - 2019-07-29
+## [0.0.6] - 2019-08-15
 ### Changed
 - Selection highlight colour updated to be a little more obvious.
 
